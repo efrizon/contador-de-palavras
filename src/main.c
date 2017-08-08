@@ -1,10 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	int A , B , C , D , n;
+	int n = 0 , A = 0 , B = 0 , C , D ;
 	char c;
-
-	A = B = n = 0;
 
 	while (c != '\n') {
 		scanf("%c", &c);
